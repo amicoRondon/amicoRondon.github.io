@@ -1,0 +1,20 @@
+body {
+    background:
+      url(https://i.ytimg.com/vi/kuL2km5FO8U/maxresdefault.jpg)
+      top left / 200px 200px /* position / size */
+      repeat              /* repeat */
+      fixed                    /* attachment */
+      padding-box              /* origin */
+      content-box              /* clip */
+      red;
+    font-size: 20px;
+    border-top-style: dotted;
+    border-right-style: solid;
+    border-bottom-style: dotted;
+    border-left-style: solid;
+    border-color: orange;
+    border-width: 3px;
+}
+img{
+  width: 40%;
+}
